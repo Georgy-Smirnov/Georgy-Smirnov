@@ -7,3 +7,5 @@ Currently learning Go, Java, Docker. Mainly coding in C/С++.
 
 Email: gogasmi@mail.ru
 Intra: https://profile.intra.42.fr/users/kjaco
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgy-Smirnov&layout=compact)
